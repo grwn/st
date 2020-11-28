@@ -1,4 +1,4 @@
-# ST
+# st 
 
 st is a simple terminal emulator for X which sucks less.
 
