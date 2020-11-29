@@ -7,5 +7,6 @@ st is a simple terminal emulator for X which sucks less.
 The following patches have been applied:
 - [anysize](https://st.suckless.org/patches/anysize/)
 - [dracula](https://st.suckless.org/patches/dracula/)
+- [externalpipe](https://st.suckless.org/patches/externalpipe/)
 
 The specific versions of the applied patches can be found in the patches folder.
